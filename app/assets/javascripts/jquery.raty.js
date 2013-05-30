@@ -1,4 +1,4 @@
-/*!
+ /*!
  * jQuery Raty - A Star Rating Plugin - http://wbotelhos.com/raty
  * -------------------------------------------------------------------
  *
@@ -6,7 +6,7 @@
  *
  * Licensed under The MIT License
  *
- * @version        2.4.5
+ * @version        2.4.5 
  * @since          2010.06.11
  * @author         Washington Botelho
  * @documentation  wbotelhos.com/raty
